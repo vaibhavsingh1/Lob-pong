@@ -1,5 +1,4 @@
 # Lob-Pong
-Contributors:Moazzam Salman, Abdul Moid, Vaibhav Singh
 
 my gameGUI class has a main which creates an instance of the gameGUI class and the constructor of gameGUI
 creates seven audioclips and plays the one which is to be played on gameStart. I created a panel which holds all the level
